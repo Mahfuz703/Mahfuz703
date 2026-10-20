@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Md Mahfuzur Rahman
 
-**Tech Entrepreneur & Software Engineer | Startup Leadership | Cloud & Full-Stack Development | Artificial Intelligence | Machine Learning | Data Science**
+**Tech Entrepreneur | Software Engineer | Startup Leadership | Cloud & Full-Stack Development | Artificial Intelligence | Machine Learning | Data Science**
 
 📍 New York City
 
