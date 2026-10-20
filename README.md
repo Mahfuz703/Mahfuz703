@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Md Mahfuzur Rahman (Mahfuz)
+# 👋 Hi, I'm Md Mahfuzur Rahman
 
-**Software Engineer · M.S. Computer Science @ Pace University · Former CEO & Tech Lead @ Rumoz**
+**Tech Entrepreneur & Software Engineer | Startup Leadership | Cloud & Full-Stack Development | Artificial Intelligence | Machine Learning | Data Science**
 
 📍 New York City
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[YOUR-LINKEDIN-ID])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/mahfuz703/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR-EMAIL])
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]([YOUR-PORTFOLIO-URL])
 
@@ -95,7 +95,7 @@ I'm a software engineer and graduate student who has worked on both sides of bui
 
 ### 🌐 Find Me Online
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/[YOUR-LINKEDIN-ID])
+- 💼 [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/mahfuz703/)
 - ✉️ [YOUR-EMAIL]
 - 🌍 [Portfolio or personal site]([YOUR-PORTFOLIO-URL])
 
